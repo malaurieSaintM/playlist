@@ -93,7 +93,7 @@ if (isset($_GET['style_id'])) {
     <!-- si pas de chansons afficher un message -->
 <?php else: ?>
     aucne chanson à afficher
-<?php endif;        ?>
+<?php endif;?>
 
 
 <!-- lecture d'une chanson -->
